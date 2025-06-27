@@ -270,6 +270,11 @@ We love contributions! Here's how you can help:
 - [ ] 📤 Export functionality (PDF, CSV)
 - [ ] 🔔 Automated reminder system
 
+## 👨‍💻 Author
+
+**Moses Stephen Arulraj S**
+- GitHub: [@NoxiousTorpedo2230](https://github.com/NoxiousTorpedo2230)
+- Profile: [https://github.com/NoxiousTorpedo2230](https://github.com/NoxiousTorpedo2230)
 
 ## 🙏 Acknowledgments
 
