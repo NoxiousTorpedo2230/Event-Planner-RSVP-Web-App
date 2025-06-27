@@ -36,3 +36,92 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  text-align: center;
+}
+
+.hover-bg-light:hover {
+  background-color: #f8f9fa !important;
+  transition: background-color 0.2s ease-in-out;
+}
+
+/* Custom gradient for header card */
+.bg-gradient {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+}
+
+/* Chart container styling */
+.recharts-wrapper {
+  margin: 0 auto;
+}
+
+/* Modal styling improvements */
+.modal-header {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.modal-footer {
+  border-top: 1px solid #dee2e6;
+}
+
+/* Table hover effects */
+.table-hover tbody tr:hover {
+  background-color: rgba(0, 123, 255, 0.05);
+}
+
+/* Badge styling */
+.badge {
+  font-size: 0.75em;
+}
+
+/* Button group spacing */
+.btn-group .btn {
+  margin: 0;
+}
+
+/* Card shadow effects */
+.shadow-sm {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+}
+
+/* Progress bar styling */
+.progress {
+  height: 8px;
+  border-radius: 4px;
+}
+
+/* Custom spacing */
+.py-4 {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+
+/* Responsive text */
+@media (max-width: 768px) {
+  .display-4 {
+    font-size: 2rem;
+  }
+  
+  .lead {
+    font-size: 1rem;
+  }
+}
+
+/* Tab styling */
+.nav-tabs .nav-link {
+  border: none;
+  border-bottom: 2px solid transparent;
+  color: #6c757d;
+}
+
+.nav-tabs .nav-link.active {
+  border-bottom-color: #667eea;
+  color: #667eea;
+  background-color: transparent;
+}
+
+.nav-tabs .nav-link:hover {
+  border-bottom-color: #667eea;
+  color: #667eea;
+}
