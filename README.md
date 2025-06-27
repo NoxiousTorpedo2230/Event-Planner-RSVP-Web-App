@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/yourusername/event-planner-rsvp?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/github/stars/yourusername/event-planner-rsvp?style=flat-square" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/yourusername/event-planner-rsvp?style=flat-square" alt="Forks" />
-  <img src="https://img.shields.io/github/issues/yourusername/event-planner-rsvp?style=flat-square" alt="Issues" />
+  <img src="https://img.shields.io/github/NoxiousTorpedo2230/Event-Planner-RSVP-Web-App?style=flat-square" alt="License" />
+  <img src="https://img.shields.io/github/stars/NoxiousTorpedo2230/Event-Planner-RSVP-Web-App?style=flat-square" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/NoxiousTorpedo2230/Event-Planner-RSVP-Web-App?style=flat-square" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/NoxiousTorpedo2230/Event-Planner-RSVP-Web-App?style=flat-square" alt="Issues" />
 </p>
 
 ---
@@ -81,7 +81,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/event-planner-rsvp.git
+git clone https://github.com/NoxiousTorpedo2230/Event-Planner-RSVP-Web-App
 
 # Navigate to project directory
 cd event-planner-rsvp
@@ -247,7 +247,7 @@ We love contributions! Here's how you can help:
 
 <div align="center">
 
-[![Contributors](https://img.shields.io/github/contributors/yourusername/event-planner-rsvp?style=for-the-badge)](https://github.com/yourusername/event-planner-rsvp/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/NoxiousTorpedo2230/Event-Planner-RSVP-Web-App?style=for-the-badge)](https://github.com/NoxiousTorpedo2230/Event-Planner-RSVP-Web-App/graphs/contributors)
 
 </div>
 
@@ -270,9 +270,6 @@ We love contributions! Here's how you can help:
 - [ ] 📤 Export functionality (PDF, CSV)
 - [ ] 🔔 Automated reminder system
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -287,8 +284,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Need help?** We're here for you!
 
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/event-planner-rsvp?style=for-the-badge)](https://github.com/yourusername/event-planner-rsvp/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/yourusername/event-planner-rsvp?style=for-the-badge)](https://github.com/yourusername/event-planner-rsvp/discussions)
+[![GitHub Issues](https://img.shields.io/github/issues/NoxiousTorpedo2230/Event-Planner-RSVP-Web-App?style=for-the-badge)](https://github.com/NoxiousTorpedo2230/Event-Planner-RSVP-Web-App/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/NoxiousTorpedo2230/Event-Planner-RSVP-Web-App?style=for-the-badge)](https://github.com/NoxiousTorpedo2230/Event-Planner-RSVP-Web-App/discussions)
 
 </div>
 
@@ -298,6 +295,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Don't forget to star this repo if you found it helpful! ⭐**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by Moses Stephen Arulraj S (https://github.com/NoxiousTorpedo2230)
 
 </div>
